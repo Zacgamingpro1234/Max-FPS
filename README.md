@@ -1,3 +1,4 @@
+# Max FPS/Client Modpack
 ### **NOTE: I recommend you download [Tex Fix 1.8.9](https://www.curseforge.com/minecraft/mc-mods/texfix/files/25401560), [Optifine 1.8.9](https://optifine.net/downloads) and [Crash Patch](https://modrinth.com/mod/crashpatch/version/v2.0.0) and read the description lightly.**
 
 Are you finding a modpack for 1.8.9 with all the **best performance mods?** Well here it is. Unlike the other 1.8.9 Modpacks this Modpack actually has more than 4 or 5 mods for performance. It has **10 FPS MODS**, 11 if you add **[Tex Fix](https://www.curseforge.com/minecraft/mc-mods/texfix/files/25401560)** and **12 if you add [Optifine](https://optifine.net/downloads)!** And you may be thinking "its just a bigger number it doesnt mean more fps" **WELL YES IT DOES GIVE YOU MORE FPS** more info below. 
